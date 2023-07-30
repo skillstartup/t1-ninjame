@@ -1,10 +1,10 @@
-# Coding Challenge
-
 ## My Solution In Action
 
 [Live Demo](https://imaginative-naiad-78f8fe.netlify.app/)
 
-https://github.com/cincodemayo/coding-challenge-ninjame/assets/22010324/fd523ef3-a3d5-4caf-963e-8218fcd7cd40
+https://github.com/skillstartup/t1-ninjame/assets/140294662/041b1eb4-0172-4e59-bbfc-96d6acf279c2
+
+
 
 ## What I Built
 
